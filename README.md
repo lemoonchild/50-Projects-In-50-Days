@@ -21,5 +21,11 @@ Each project is organized into its own directory, containing:
 https://github.com/user-attachments/assets/77ad49b6-703c-43ab-9b41-55a9c0d0b382
 
 ## Day 2 - Progress Steps
-https://github.com/user-attachments/assets/aa7878a3-6548-4a4a-928d-876205b3b258
+https://github.com/user-attachments/assets/9a471020-f588-4d32-acfc-9042e660529c
+
+## Day 3 - Rotating Navigation
+https://github.com/user-attachments/assets/c1ddc6a6-dfa5-4d8c-8272-f8cac41b0106
+
+## Day 4 - Hidden Search Widget
+https://github.com/user-attachments/assets/d1e5e866-c41d-4b9f-bbee-9eee6c698ad0
 
