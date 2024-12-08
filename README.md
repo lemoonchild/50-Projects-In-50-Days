@@ -29,3 +29,9 @@ https://github.com/user-attachments/assets/c1ddc6a6-dfa5-4d8c-8272-f8cac41b0106
 ## Day 4 - Hidden Search Widget
 https://github.com/user-attachments/assets/d1e5e866-c41d-4b9f-bbee-9eee6c698ad0
 
+## Day 5 - Blurry Loading
+https://github.com/user-attachments/assets/d3f23680-1e91-44c0-8195-235083a016e4
+
+## Day 6 - Scroll Animation
+https://github.com/user-attachments/assets/a09b51f9-1514-4e03-87ce-f07c8fdd4f15
+
